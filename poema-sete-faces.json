@@ -1,0 +1,89 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.0
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Quando nasci, um anjo torto desses que vivem na sombra disse: Vai, Carlos!"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 75,
+        "content": "ser gauche na vida."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 95,
+        "content": "As casas espiam os homens que correm atras de mulheres."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 151,
+        "content": "A tarde talvez fosse azul, nao houvesse tantos desejos.O bonde passa cheio de pernas:pernas brancas pretas amarelas.Para que tanta perna, meu Deus,pergunta meu coracao.Porem meus olhos nao perguntam nada.O homem atras do bigode e serio, simples e forte."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      },
+      "text": {
+        "beginOffset": 405,
+        "content": "Quase nao conversa.Tem poucos, raros amigos o homem atras dos oculos e do bigode.Meu Deus, por que me abandonaste se sabias que eu n?o era Deus se sabias que eu era fraco."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 578,
+        "content": "Mundo mundo vasto mundo,se eu me chamasse Raimundo seria uma rima, n?o seria uma solucao."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 669,
+        "content": "Mundo mundo vasto mundo, mais vasto e meu coracao."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 720,
+        "content": "Eu nao devia te dizer mas essa lua mas esse conhaque botam a gente comovido como o diabo."
+      }
+    }
+  ]
+}
