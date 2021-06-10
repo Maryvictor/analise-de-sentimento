@@ -1,0 +1,309 @@
+{
+  "documentSentiment": {
+    "magnitude": 10.8,
+    "score": 0.3
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Numa folha qualquer eu desenho um sol amarelo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 47,
+        "content": "E com cinco ou seis retas ? facil fazer um castelo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 100,
+        "content": "Corro o lapis em torno da mao e me dou uma luva."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 149,
+        "content": "E se faco chover, com dois riscos tenho um guarda-chuva."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 206,
+        "content": "Se um pinguinho de tinta cai num pedacinho azul do papel."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 264,
+        "content": "Num instante imagino uma linda gaivota a voar no ceu."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 318,
+        "content": "Vai voando, contornando a imensa curva norte e sul."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 370,
+        "content": "Vou com ela, viajando, Havai, Pequim ou Istambul."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 420,
+        "content": "Pinto um barco a vela branco, navegando, e tanto ceu e mar num beijo azul."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 495,
+        "content": "Entre as nuvens vem surgindo um lindo aviao rosa e grena.Tudo em volta colorindo, com suas luzes a piscar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 602,
+        "content": "Basta imaginar e ele esta partindo, sereno, indo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 652,
+        "content": "E se a gente quiser ele vai pousar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 688,
+        "content": "Numa folha qualquer eu desenho um navio de partida."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 740,
+        "content": "Com alguns bons amigos bebendo de bem com a vida."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 790,
+        "content": "De uma America a outra consigo passar num segundo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 841,
+        "content": "Giro um simples compasso e num circulo eu faco o mundo."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 897,
+        "content": "Um menino caminha e caminhando chega no muro."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 943,
+        "content": "E ali logo em frente, a esperar pela gente, o futuro esta."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1002,
+        "content": "E o futuro e uma astronave que tentamos pilotar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 1051,
+        "content": "Nao tem tempo nem piedade, nem tem hora de chegar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1102,
+        "content": "Sem pedir licenca muda nossa vida, depois convida a rir ou chorar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1169,
+        "content": "Nessa estrada nao nos cabe conhecer ou ver o que vira."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 1224,
+        "content": "O fim dela ninguem sabe bem ao certo onde vai dar."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1275,
+        "content": "Vamos todos numa linda passarela."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1309,
+        "content": "De uma aquarela que um dia, enfim, descolorira."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 1357,
+        "content": "Numa folha qualquer eu desenho um sol amarelo (que descolorira)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      },
+      "text": {
+        "beginOffset": 1422,
+        "content": "E com cinco ou seis retas e facil fazer um castelo (que descolorira)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1492,
+        "content": "Giro um simples compasso e num circulo eu faco o mundo (que descolorira)."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1566,
+        "content": "Que descolorira."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1583,
+        "content": "Que descolorira."
+      }
+    }
+  ]
+}
